@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Header](./github-header-banner.png)
 <!--
 **SatrioWibowo1512/SatrioWibowo1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
