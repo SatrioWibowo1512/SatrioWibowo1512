@@ -1,8 +1,7 @@
 ![Header](./github-header-banner.png)
 
 # 💫 About Me:
-Hi, I'm Satrio 👋<br><br>Informatics Student from Indonesia<br><br>I'm passionate about Python Development and Game Development. Currently, I'm building strong fundamentals in programming.<br><br>My long-term goal is to build impactful technology, achieve financial freedom at a young age, and pursue an international career.<br><br>Current Focus<br>- Learning Python and Software Development<br>- Exploring Programming Fundamentals<br>- Building Personal Projects<br>- Improving English Skills<br>- Participating in Competitions and Certifications<br><br>Interests<br>- Cybersecurity<br>- Artificial Intelligence<br>- Web Development<br>- Game Development<br><br>Currently Learning<br>- Python<br>- PHP<br>- Godot Engine<br>- Networking Basics<br><br>"A Hearth of Steel Starts to Grow."
-
+Hi, I'm Satrio 👋<br><br>Informatics Student from Indonesia<br><br>I'm passionate about Python Development and Game Development. Currently, I'm building strong fundamentals in programming.<br><br>My long-term goal is to build impactful technology and pursue an international career.<br><br>Current Focus<br>- Learning Python and Software Development<br>- Exploring Programming Fundamentals<br>- Building Personal Projects<br>- Improving English Skills<br>- Participating in Competitions and Certifications<br><br>Interests<br>- Cybersecurity<br>- Artificial Intelligence<br>- Web Development<br>- Game Development<br><br>Currently Learning<br>- Python<br>- PHP<br>- Godot Engine<br>- Networking Basics<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/iyo.seru/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/strioo.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satrio-wibowo-82505634a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satriowibowo221206@gmail.com) 
@@ -13,6 +12,8 @@ Hi, I'm Satrio 👋<br><br>Informatics Student from Indonesia<br><br>I'm passion
 ![](https://github-readme-stats.shion.dev/api?username=SatrioWibowo1512&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=SatrioWibowo1512&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SatrioWibowo1512&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+"A Hearth of Steel Starts to Grow."
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
